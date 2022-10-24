@@ -1,0 +1,20 @@
+.logo {
+    background-image: url(./img/LogoMIMa.png);
+  
+}
+h1 {
+    text-align: center;
+    text-decoration-color: brown;
+}
+h2 {
+    text-align: center;
+    
+}
+#erika{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+#cuerpo {
+    background: rgb(238,174,202);
+}
