@@ -21,7 +21,9 @@ p {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.card-text {
+    text-align: justify;
+}
 
 .logoface {
     background-image: url(./img/face.png);
